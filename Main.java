@@ -99,5 +99,4 @@ public class Main {
             System.out.println("\nThe response was not recongnized!");
         }
     }
-    // test
 }
